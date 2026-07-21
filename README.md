@@ -1,56 +1,175 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Samuel
+<img src="https://raw.githubusercontent.com/SamuCodev/SamuCodev/main/banner.png" width="100%" alt="Banner"/>
 
-### 💻 Software Developer in Progress
+# 👋 ¡Hola! Soy Samuel David
 
-<img src="https://chatgpt.com/s/m_6a5ebc51840881919937d80a60c4bb38" />
+### Estudiante de Análisis y Desarrollo de Software (ADSO)
+
+**Construyendo proyectos, aprendiendo nuevas tecnologías y mejorando cada día.**
+
+<p>
+
+<img src="https://img.shields.io/badge/📍-Colombia-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🎓-SENA-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻-Web%20Development-0F172A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀-Always%20Learning-F59E0B?style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+# 👤 Sobre mí
 
-💙 Soy estudiante de **Análisis y Desarrollo de Software (SENA)**.
+Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** en el **SENA**, apasionado por el desarrollo web, el desarrollo Backend y el aprendizaje continuo y autonomo.
 
-Actualmente estoy enfocando mi aprendizaje en el desarrollo web, creando proyectos para fortalecer mi lógica de programación, mejorar mis habilidades y adquirir experiencia práctica.
+Actualmente estoy fortaleciendo mis conocimientos mediante proyectos personales, buscando escribir código cada vez más limpio, mejorar mi lógica de programación y adquirir experiencia práctica.
 
-Mi objetivo es convertirme en un **Desarrollador Full Stack**, construyendo aplicaciones modernas, escalables y con buenas prácticas.
+Mi objetivo es convertirme en un **Desarrollador Full Stack**, creando aplicaciones modernas, escalables y con buenas prácticas.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+# 🛠️ Tecnologías
+
+## Frontend
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,postman" />
+## Herramientas
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+</p>
+
+## Proximos pasos
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgresql,java,spring,docker"/>
 </p>
 
 ---
 
-## 📚 Próximas tecnologías
+# 🎯 Actualmente
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgresql" />
-
-</p>
-
----
-
-## 🎯 Objetivos
-
-- ✅ Mejorar mi lógica de programación.
-- 🚀 Crear proyectos cada vez más completos.
-- 📖 Aprender nuevas tecnologías constantemente.
-- 💼 Conseguir mi primera experiencia como desarrollador.
-- 🌎 Construir un portafolio del que me sienta orgulloso.
+- 📚 Aprendiendo **React** y **Node.js**.
+- ⚡ Mejorando mis fundamentos en **JavaScript**.
+- 🧠 Practicando lógica de programación.
+- 🚀 Construyendo proyectos para mi portafolio.
+- 💼 Preparándome para mi primera experiencia profesional.
 
 ---
 
-## 📊 Estadísticas
+# 🚀 Proyectos Destacados
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌦️ WeatherPlus
+
+Aplicación web que muestra información meteorológica en tiempo real consumiendo la API de OpenWeather.
+
+**Tecnologías**
+
+HTML • CSS • JavaScript • OpenWeather API
+
+<br>
+
+<a href="https://github.com/SamuCodev/WeatherPlus">
+🔗 Ver repositorio
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/500x300/111827/3B82F6?text=WeatherPlus" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ✅ To-Doo App
+
+Aplicación para gestionar tareas con almacenamiento local, permitiendo crear, completar y eliminar actividades.
+
+**Tecnologías**
+
+HTML • CSS • JavaScript • LocalStorage
+
+<br>
+
+<a href="https://github.com/SamuCodev/To-Doo-App">
+🔗 Ver repositorio
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/500x300/111827/3B82F6?text=ToDoo" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👤 MySpace
+
+En Proceso...
+
+**Tecnologías**
+
+HTML • CSS • JavaScript • LocalStorage
+
+<br>
+
+<a href="https://github.com/SamuCodev/MySpace">
+🔗 Ver repositorio
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://placehold.co/500x300/111827/3B82F6?text=MySpace" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+
+> *Próximamente agregaré más proyectos a medida que continúe aprendiendo nuevas tecnologías.*
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
@@ -60,9 +179,7 @@ Mi objetivo es convertirme en un **Desarrollador Full Stack**, construyendo apli
 
 </div>
 
----
-
-## 🔥 Racha
+<br>
 
 <div align="center">
 
@@ -72,25 +189,7 @@ Mi objetivo es convertirme en un **Desarrollador Full Stack**, construyendo apli
 
 ---
 
-## 💻 Herramientas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
-
-</div>
-
----
-
-## 📂 Proyectos
-
-Aquí encontrarás proyectos desarrollados durante mi proceso de aprendizaje.
-
-Cada repositorio representa un nuevo reto, una nueva tecnología o una oportunidad para mejorar mis habilidades como desarrollador.
-
----
-
-## 📈 Actividad
+# 📈 Actividad
 
 <div align="center">
 
@@ -100,28 +199,26 @@ Cada repositorio representa un nuevo reto, una nueva tecnología o una oportunid
 
 ---
 
-## 📫 Contacto
+# 📬 Contacto
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:tucorreo@gmail.com">
+<a href="mailto:Samuelcodev@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-&nbsp;
-
-<a href="https://linkedin.com/in/TUUSUARIO">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://github.com/SamuCodev">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Cada proyecto es una oportunidad para aprender algo nuevo."
+### *"Always learning. Always building."*
 
-Gracias por visitar mi perfil 💙
+Gracias por visitar mi perfil y vuelva pronto :D
 
 </div>
